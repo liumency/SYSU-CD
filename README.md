@@ -29,9 +29,7 @@ A new change detection dataset in our recent work "A Deeply-supervised Attention
 <br>
 
 ## Citation
-
-Please cite our paper if you use SYSU-CD in your work:
-
+If you find our work useful for your research, please consider citing our paper:
 ```
 
 ```
