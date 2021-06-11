@@ -20,7 +20,8 @@ A new change detection dataset in our recent work "A Deeply-supervised Attention
 ## Download
 
 - Baiduyun
-- Google Drive
+- GoogleDrive
+- OneDrive
 
 ** available soon 
 
