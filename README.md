@@ -21,11 +21,11 @@ A new change detection dataset in our recent work "A Deeply-supervised Attention
 
 ## Experiments
 
-- Method: DSAMNet
+### Method: DSAMNet
    ![model](images/model.jpg)
 
 
-- Result
+### Result
 
    ![result](images/result.jpg)
    
