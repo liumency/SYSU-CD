@@ -13,10 +13,18 @@ A new change detection dataset in our recent work "A Deeply-supervised Attention
 
    ![dataset](images/dataset.jpg)
 
+- Comparisons to existing change detection datasets 
+   
+   ![datasets](images/datasets.jpg)
 
+<br>
 ## Experiments
 
-- The dataset contains 20000 pairs of 0.5-m aerial images of size 256×256 taken between the years 2007 and 2014 in Hong Kong. 
+- Method: DSAMNet
+   ![model](images/model.jpg)
+
+
+- Result
 
    ![result](images/result.jpg)
    
