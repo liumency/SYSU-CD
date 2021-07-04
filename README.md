@@ -34,7 +34,7 @@ A new change detection dataset in our recent work "[A Deeply-supervised Attentio
 
 ## Download
 
-- [BaiduYun](https://pan.baidu.com/s/15lQPG_hXZbLp91VywwcT7Q(mlls))
+- [BaiduYun](https://pan.baidu.com/s/15lQPG_hXZbLp91VywwcT7Q) (mlls)
 - [GoogleDrive](https://drive.google.com/drive/folders/1ALb8rzw9zEMSxwNTvIrIaA83zjjs04CE?usp=sharing)
 - [OneDrive](https://mail2sysueducn-my.sharepoint.com/:f:/g/personal/liumx23_mail2_sysu_edu_cn/Emgc0jtEcshAnRkgq1ZTE9AB-kfXzSEzU_PAQ-5YF8Neaw?e=IhVeeZ)
 
